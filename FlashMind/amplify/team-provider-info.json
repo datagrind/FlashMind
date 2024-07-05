@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-flashmind-dev-015fa-authRole",
+      "UnauthRoleArn": "arn:aws:iam::396495691727:role/amplify-flashmind-dev-015fa-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::396495691727:role/amplify-flashmind-dev-015fa-authRole",
+      "Region": "us-west-1",
+      "DeploymentBucketName": "amplify-flashmind-dev-015fa-deployment",
+      "UnauthRoleName": "amplify-flashmind-dev-015fa-unauthRole",
+      "StackName": "amplify-flashmind-dev-015fa",
+      "StackId": "arn:aws:cloudformation:us-west-1:396495691727:stack/amplify-flashmind-dev-015fa/3e421460-3a99-11ef-b15d-026a3cc3e5b9",
+      "AmplifyAppId": "d37nu7iifp62kp"
+    },
+    "categories": {
+      "api": {
+        "flashmind": {}
+      }
+    }
+  }
+}
